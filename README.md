@@ -26,12 +26,11 @@ with open('file.txt','r') as f1:
     with open('file2.txt','a') as f2:
         for line in f1:
             f2.write(line)
+ ```
 ### OUTPUT:
 ![cp1](https://user-images.githubusercontent.com/120539823/214834580-67338ddf-3352-4d4e-962b-a385888dc19b.png)
 ![cp2](https://user-images.githubusercontent.com/120539823/214834654-09ee2f45-b02b-462a-84da-84e59f5422b9.png)
 
 
-
-```
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
