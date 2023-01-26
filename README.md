@@ -27,16 +27,15 @@ with open('file.txt','r') as f1:
         for line in f1:
             f2.write(line)
 ### OUTPUT:
-![cp1](https://user-images.githubusercontent.com/120539823/214833854-519f64a7-0730-4db5-8e93-da11cd948a58.png)
-![square root of a number](https://user-images.githubusercontent.com/120539823/214833857-9b933d83-4f96-4dad-bb34-96505799071a.png)
-[univariate linear regression.pdf](https://github.com/pradeepsiva20/copy-file/files/10509113/univariate.linear.regression.pdf)
-![univariate](https://user-images.githubusercontent.com/120539823/214833873-98885773-abdb-48fa-9675-34b587b0ace2.jpg)
-![cp2](https://user-images.githubusercontent.com/120539823/214833885-c5f6b2c5-96e0-4fcc-90dd-ed8d96ac3d83.png)
-![wordcount2](https://user-images.githubusercontent.com/120539823/214833889-ffb56af4-f1ff-4080-bfa9-8f697d345c66.png)
-![cp1](https://user-images.githubusercontent.com/120539823/214833892-5912ed74-1c3f-47ea-b78a-d99b182c0c70.png)
+![cp1](https://user-images.githubusercontent.com/120539823/214834126-c30dcd8c-6a42-49ef-a384-691808c6fb38.png)
+![cp2](https://user-images.githubusercontent.com/120539823/214834131-cc1b7c99-c9ed-4319-b7dd-200a24a63d3c.png)
+
+![wordcount2](https://user-images.githubusercontent.com/120539823/214834133-f7fff0ef-1e98-4ae4-a336-57b7293bc807.png)
+![cp2](https://user-images.githubusercontent.com/120539823/214834166-f72bbbab-a776-440b-9972-4582c8257422.png)
+![wordcount2](https://user-images.githubusercontent.com/120539823/214834169-faae48c7-1074-4623-9b4a-12cb2e088b22.png)
+![cp1](https://user-images.githubusercontent.com/120539823/214834171-bb7b592f-2423-4a22-b221-86ee3ab3a7ae.png)
 
 
 ```
 ## RESULT:
-Thus the program is wri![wordcount2](https://user-images.githubusercontent.com/120539823/214833876-c66ba6ba-d195-49dc-92dc-1104a8c55298.png)
-tten to copy the contents from one file to another file.
+Thus the program is written to copy the contents from one file to another file.
