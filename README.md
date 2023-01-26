@@ -27,13 +27,9 @@ with open('file.txt','r') as f1:
         for line in f1:
             f2.write(line)
 ### OUTPUT:
-![cp1](https://user-images.githubusercontent.com/120539823/214834126-c30dcd8c-6a42-49ef-a384-691808c6fb38.png)
-![cp2](https://user-images.githubusercontent.com/120539823/214834131-cc1b7c99-c9ed-4319-b7dd-200a24a63d3c.png)
+![cp1](https://user-images.githubusercontent.com/120539823/214834580-67338ddf-3352-4d4e-962b-a385888dc19b.png)
+![cp2](https://user-images.githubusercontent.com/120539823/214834654-09ee2f45-b02b-462a-84da-84e59f5422b9.png)
 
-![wordcount2](https://user-images.githubusercontent.com/120539823/214834133-f7fff0ef-1e98-4ae4-a336-57b7293bc807.png)
-![cp2](https://user-images.githubusercontent.com/120539823/214834166-f72bbbab-a776-440b-9972-4582c8257422.png)
-![wordcount2](https://user-images.githubusercontent.com/120539823/214834169-faae48c7-1074-4623-9b4a-12cb2e088b22.png)
-![cp1](https://user-images.githubusercontent.com/120539823/214834171-bb7b592f-2423-4a22-b221-86ee3ab3a7ae.png)
 
 
 ```
